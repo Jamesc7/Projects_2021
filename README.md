@@ -1,1 +1,1 @@
-[Website](https://jamesc7.github.io/Projects_2021/) for the list of projects completed.
+[Website](https://jamesc7.github.io/) for the list of projects completed.
